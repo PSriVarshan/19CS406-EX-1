@@ -43,8 +43,8 @@ To implement socket programming date and time display from client to server usin
 ## PROGRAM :
 ### Client :
 ```python
-Developed by : Sri varshan P
-Register Number : 212222240104
+#Developed by : Sri Varshan P
+#Register Number : 212222240104
 import socket
 from datetime import datetime
 s=socket.socket()
@@ -61,8 +61,8 @@ if ack:
 ```
 ### Server :
 ```py
-Developed by : Sri varshan P
-Register Number : 212222240104
+#Developed by : Sri varshan P
+#Register Number : 212222240104
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
