@@ -61,7 +61,7 @@ if ack:
 ```
 ### Server :
 ```py
-#Developed by : Sri varshan P
+#Developed by : Sri Varshan P
 #Register Number : 212222240104
 import socket
 s=socket.socket()
